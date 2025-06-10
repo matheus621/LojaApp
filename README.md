@@ -1,73 +1,86 @@
-🛍️ LojaApp
-LojaApp é um aplicativo de e-commerce de calçados desenvolvido em Jetpack Compose, com arquitetura MVI e gerenciamento de dependências com Koin.
-O app foi criado com o objetivo de avaliar e aprimorar meu conhecimento no Jetpack Compose e no desenvolvimento de apps modernos para Android.
+# 🛍️ LojaApp
 
-📱 Screenshots
-🏠 Tela inicial (Home)
-![Screenshot_4](https://github.com/user-attachments/assets/ccb6c0cc-5361-4b41-a4aa-709909a78d48)
+[![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blueviolet?logo=kotlin)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%E2%9C%A8-lightblue?logo=android)](https://developer.android.com/jetpack/compose)
 
-📝 Tela de detalhes do produto
-![Screenshot_5](https://github.com/user-attachments/assets/b715c088-6bad-48cd-97cb-c65257ce377c)
+**LojaApp** é um aplicativo de e-commerce de calçados desenvolvido em **Jetpack Compose**, com arquitetura **MVI** e gerenciamento de dependências com **Koin**.  
+O app foi criado com o objetivo de **avaliar e aprimorar meu conhecimento no Jetpack Compose** e no desenvolvimento de apps modernos para Android.
 
-✨ Recursos
-🔍 Pesquisa de produtos
+---
 
-🏷️ Filtros por categorias (Tênis, Botas, Chuteiras, Sapatênis)
+## 📱 Screenshots
 
-🖼️ Lista de produtos em grid
+### 🏠 Tela inicial (Home)
+<img src="![Screenshot_4](https://github.com/user-attachments/assets/91582c60-23c2-4061-bb9d-0a3f4caec0e1)" width="300" />
 
-📄 Tela de detalhes com avaliação e descrição do produto
+### 📝 Tela de detalhes do produto
+<img src="![Screenshot_5](https://github.com/user-attachments/assets/b0fcb32e-cbe7-46fa-a7fb-35a751872c2a)" width="300" />
 
-🛒 Adicionar produto ao carrinho
+---
 
-🌐 Navegação por abas (Home, Cart, Profile)
+## ✨ Recursos
 
-⚡️ Estado de UI reativo com StateFlow / MutableStateFlow
+- 🔍 Pesquisa de produtos
+- 🏷️ Filtros por categorias (Tênis, Botas, Chuteiras, Sapatênis)
+- 🖼️ Lista de produtos em grid
+- 📄 Tela de detalhes com avaliação e descrição do produto
+- 🛒 Adicionar produto ao carrinho
+- 🌐 Navegação por abas (Home, Cart, Profile)
+- ⚡️ Estado de UI reativo com **StateFlow** / **MutableStateFlow**
 
-🏗️ Arquitetura
-MVI (Model-View-Intent) — arquitetura reativa e escalável
+---
 
-StateFlow / MutableStateFlow — gerenciamento de estado
+## 🏗️ Arquitetura
 
-Koin — injeção de dependências
+- **MVI (Model-View-Intent)** — arquitetura reativa e escalável
+- **StateFlow / MutableStateFlow** — gerenciamento de estado
+- **Koin** — injeção de dependências
+- **Coil** — carregamento de imagens assíncrono e eficiente
 
-Coil — carregamento de imagens assíncrono e eficiente
+---
 
-🚀 Como executar
-Clone o repositório:
+## 🚀 Como executar
 
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/lojaapp.git
-Abra o projeto no Android Studio Giraffe ou superior.
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/lojaapp.git
+    ```
 
-Conecte um dispositivo físico ou inicie um emulador.
+2. Abra o projeto no **Android Studio Giraffe** ou versão superior.
 
-Execute o app normalmente.
+3. Sincronize o projeto com o Gradle (Android Studio geralmente faz isso automaticamente).
 
-🎯 Objetivo do Projeto
-Este projeto foi desenvolvido como projeto de estudo pessoal com foco em:
+4. Conecte um dispositivo físico **OU** inicie um emulador Android.
 
-Prática avançada com Jetpack Compose
+5. Execute o app:
+    - Selecione o dispositivo no Android Studio.
+    - Clique em **Run** (ícone ▶️) ou pressione **Shift + F10**.
 
-Implementação da arquitetura MVI no Compose
+---
 
-Experiência com StateFlow e injeção de dependências com Koin
+## 🎯 Objetivo do Projeto
 
-Boas práticas de desenvolvimento Android moderno
+Este projeto foi desenvolvido como **projeto de estudo pessoal** com foco em:
 
-🛠️ Tecnologias utilizadas
-Jetpack Compose
+- Prática avançada com **Jetpack Compose**
+- Implementação da arquitetura **MVI** no Compose
+- Experiência com **StateFlow** e **injeção de dependências com Koin**
+- Boas práticas de desenvolvimento Android moderno
 
-Koin
+---
 
-Coil
+## 🛠️ Tecnologias utilizadas
 
-Kotlin
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- [Koin](https://insert-koin.io/)
+- [Coil](https://coil-kt.github.io/coil/)
+- Kotlin
+- Android Studio
 
-Android Studio
+---
 
-🧑‍💻 Autor
-Matheus Cardoso
-GitHub
+## 👨‍💻 Autor
+
+- Matheus Cardoso  
+  [GitHub]((https://github.com/matheus621))
