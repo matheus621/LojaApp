@@ -12,10 +12,10 @@ O app foi criado com o objetivo de **avaliar e aprimorar meu conhecimento no Jet
 ## 📱 Screenshots
 
 ### 🏠 Tela inicial (Home)
-<img src="![Screenshot_4](https://github.com/user-attachments/assets/91582c60-23c2-4061-bb9d-0a3f4caec0e1)" width="300" />
+<img src="https://github.com/user-attachments/assets/91582c60-23c2-4061-bb9d-0a3f4caec0e1" width="300" />
 
 ### 📝 Tela de detalhes do produto
-<img src="![Screenshot_5](https://github.com/user-attachments/assets/b0fcb32e-cbe7-46fa-a7fb-35a751872c2a)" width="300" />
+<img src="https://github.com/user-attachments/assets/b0fcb32e-cbe7-46fa-a7fb-35a751872c2a" width="300" />
 
 ---
 
